@@ -1,0 +1,30 @@
+## Boeken en cursussen
+- [[Inleiding tot de klinische seksuologie - Bernaert]]
+- [[Relatie- en gezinstherapie - Bernaert]]
+- [[Handboek Seksuologie - Gijs e.a.]]
+- [[Basisvaardigheden Seksuele Counseling - Zegers]]
+- [[Psychodynamische perspectieven op seksuele ontwikkeling - Thys]]
+- [[Psychologische en psychopathologische aspecten van de voortplanting - Van Duppen]]
+- [[Seksuele psychologie, empirisch-psychologische benaderingen - Wolfswinkel]]
+- [[Seksuele en genderdiversiteit - Roels en Enzlin]]
+- [[Seksueel geweld - slachtoffers en daders - Zegers, van Assche en Roels]]
+- [[Seksueel geweld en slachtoffers - samenvatting hoorcolleges Van Assche (auteur onbekend)]]
+- [[Klinische richtlijnen seksuele problemen - Draaiboek GGD, NHG-Standaard, NVOG en EAU Guidelines]]
+- [[Gender bij kinderen, jongeren en specifieke doelgroepen - scriptie, brochure en boekfragment]]
+- [[Zorgstandaard Seksuele disfuncties en trauma-gerelateerd verlangenverlies - GGZ Standaarden en Huisarts en Wetenschap]]
+- [[Handboek Seksualiteit en reproductie - Leusink en Tanis-Nauta (RIVM, 2009)]]
+- [[Seksualiteit en intimiteit bij kanker - patiëntenfolders teelbalkanker en prostaatkanker]]
+- [[Cliëntgerichte psychotherapie - cursus (KU Leuven)]]
+- [[Pedagogiek - cursus en individuele paper over RSV bij visuele beperking (KU Leuven)]]
+- [[Recht m.b.t. sekse, seksualiteitsbeleving en voortplanting - Dewitte]]
+- [[Ethiek van relaties, seksualiteit en gezin - Dillen]]
+- [[Culture, Intimacy and Relatedness - cursus en readers (KU Leuven)]]
+- [[Come As You Are - Nagoski]]
+- [[Transforming Sexual Narratives - Iasenza (preview)]]
+- [[Sensate Focus in Sex Therapy - Weiner en Avery-Clark]]
+- [[Sexuality and Sex Therapy - Christian Appraisal - Yarhouse en Tan]]
+- [[New Directions in Sex Therapy - Kleinplatz (red.)]] (gedeeltelijk verwerkt, zie notitie)
+- [[Palgrave Handbook of Gender and Development - Harcourt (eds.)]] (buiten scope, zie notitie)
+- [[Handbook of Sexuality-Related Measures (4th ed.)]] (selectief verwerkt, zie notitie)
+- [[Introducing the New Sexuality Studies - Fischer en Westbrook (red.)]] (selectief verwerkt, zie notitie)
+- [[Seks! Een leven lang leren - Van Lunsen en Laan]] (selectief verwerkt, zie notitie)
