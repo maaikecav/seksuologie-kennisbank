@@ -7,6 +7,9 @@ status: definitief
 
 # Lichaamsbeeld en schaamte rond geslachtsdelen
 
+> [!tip] Praktijkhoofdstuk
+> Voor de uitvraag, de opbouw van de behandeling, huiswerk en verhalen: zie het handboekhoofdstuk **[[Schaamte]]**.
+
 ## Kort overzicht
 
 De meeste mensen hebben een dubbel, ambivalent gevoel over hun eigen geslachtsdelen: schaamte en schuld naast nieuwsgierigheid en plezier. Dat is niet toevallig maar aangeleerd — vanaf jonge leeftijd wordt aanraking van "privédelen" ontmoedigd en leren we vaak geen correcte woordenschat. Cliënten geruststellen dat er enorme lichamelijke variatie normaal is, is vaak al op zich waardevolle psycho-educatie.

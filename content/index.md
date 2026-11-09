@@ -1,4 +1,5 @@
 ---
+title: Kennisbank Seksuologie
 type: wegwijzer
 thema: navigatie
 status: definitief
@@ -12,6 +13,14 @@ Deze notitie is het beginpunt. Kies hieronder de ingang die bij je vraag past.
 
 → **[[Klinische Wegwijzer - met welke klacht komt de cliënt binnen]]**. Dit is de belangrijkste notitie van de hele kennisbank: een route van "wat zegt/toont de cliënt" naar de juiste klacht-notitie, met differentiatoren, PLISSIT-niveau en verwijzing naar achtergrond/uitvraag/interventie. Begin hier bij twijfel.
 
+## Ik wil weten hoe ik met een thema aan de slag ga (uitvraag, behandeling, huiswerk, verhalen)
+
+→ **[[Overzicht - 05 Handboek per thema]]**. Per thema (bijvoorbeeld [[Schaamte]]) één praktisch hoofdstuk met verhalen en metaforen uit de boeken, uitvraag stap voor stap, de opbouw van de behandeling, huiswerk met aanpassingen en valkuilen.
+
+→ **[[Overzicht - 09 Huiswerkopdrachten]]**. Alle huiswerkopdrachten volledig uitgeschreven als werkbladen voor cliënten (233 stuks), per hoofdstuk en per thema. Ze staan ook in hoofdstuk 7 (per behandelfase) en hoofdstuk 8 van elk handboekhoofdstuk.
+
+→ **[[Overzicht - Casusregister]]**. Alle 175 verhalen en casussen uit de boeken op één plek: te zoeken op situatie (kinderwens, na de bevalling, ouder dan 55, geloof, lhbti+, trauma in de geschiedenis...), per hoofdstuk en per bron. Met één klik spring je naar het verhaal in het hoofdstuk.
+
 ## Ik zoek iets specifieks
 
 | Ik zoek... | Ga naar |
@@ -22,6 +31,7 @@ Deze notitie is het beginpunt. Kies hieronder de ingang die bij je vraag past.
 | Een bredere **thematische kwestie** (diversiteit, forensisch, preventie, geschiedenis...) | [[Overzicht - 02 Klinische Thema's]] |
 | Een **oefening of interventie** (sensate focus, start-stop, PLISSIT...) | [[Overzicht - 07 Oefeningen en Interventies]] |
 | Een **metafoor of uitlegzin** om direct met een cliënt te gebruiken | [[Overzicht - 08 Metaforen en uitlegzinnen]] |
+| Een **verhaal of casus** uit de boeken voor een bepaalde situatie | [[Overzicht - Casusregister]] |
 | Hoe je iets **uitvraagt of classificeert** (DSM, LOPS, diagnostisch proces, vragenlijsten) | [[Overzicht - 06 Uitvraag en Diagnostiek]] |
 | **Relatie- of systeemtherapeutische** kaders (hechting, Gottman, EFT...) | [[Overzicht - 15 Relatie- en Systeemtherapie]] |
 | Naar wie je moet **doorverwijzen** (uroloog, bekkenfysiotherapeut, psychiater...) | [[Overzicht - 16 Verwijzing]] |

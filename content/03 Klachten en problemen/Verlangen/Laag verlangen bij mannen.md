@@ -91,7 +91,7 @@ Bij een lage testosteronspiegel: verwijs naar [[Huisarts]] of endocrinologie voo
 - [[Laag verlangen]]
 - [[Seksuele aversie]]
 - [[Verschil in verlangen bij koppels]]
-- [[Rem- en gasmodel]]
+- [[Dual Control Model (Bancroft en Janssen) - SES en SIS|Rem- en gasmodel (Dual Control Model)]]
 - [[Metabool syndroom en testosterondeficiëntie (TDS)]]
 - [[Erectieproblemen]]
 - [[Sensate focus]]

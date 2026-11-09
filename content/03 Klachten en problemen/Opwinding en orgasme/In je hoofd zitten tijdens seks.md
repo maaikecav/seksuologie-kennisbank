@@ -71,6 +71,10 @@ Bij sterk verankerde angst- of stemmingsklachten die op zichzelf staande behande
 - Wat de partner wel/niet verwacht, klopt lang niet altijd met wat de cliënt zelf aanneemt te moeten "leveren" — dit expliciet bespreken met de partner kan al veel druk wegnemen.
 - Bruikbare metafoor om mindfulness/aandachtsturing concreet te maken: [[Op de oever van de rivier staan (Gunsaullus)]] — niet meegesleurd worden door zorgelijke gedachten, maar ze wel kunnen voelen zonder erin mee te gaan.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- **Mindfulness als behandeling** (Brotto): niet ontspannen, maar terugkeren. De nabespreking na elke oefening bestaat uit drie vragen: wat merkte je op, hoe verhoudt dat zich tot hoe het normaal gaat, en wat betekent dat voor jou?
+- **Uitgeschreven werkbladen:** [[HW - Waar was ik]] · [[HW - De bodyscan]] · [[HW - Gedachten als wolken]] · [[HW - Temperatuur, druk, textuur]] · [[HW - Geniet ik hier nu van]].
+
 ## Bronnen en links
 
 ### Bronnen

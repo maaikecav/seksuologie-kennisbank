@@ -1,4 +1,10 @@
-
+---
+type: "doelgroep"
+thema: "visuele beperking"
+bron: "Visser, M. (2023-2024) - Individuele paper Pedagogiek, \"In Zicht: Relationele en Seksuele Vorming voor Visueel Beperkten\""
+status: "definitief"
+aliases: [RSV bij visuele beperking, Seksuele voorlichting bij blindheid, Seksuele voorlichting bij slechtziendheid]
+---
 
 # Relationele en seksuele vorming voor visueel beperkten
 

@@ -67,3 +67,4 @@ Cliënten onbedoeld angstiger maken door ongenuanceerde ("gaat nooit over") info
 - [[Bekkenbodemfysiotherapeut]]
 - [[Parafilieën]]
 - [[PLISSIT-model]]
+- [[Ongewenste genitale opwinding (PGAD)]] (handboekhoofdstuk: uitvraag, behandeling in fasen, casussen en huiswerk)

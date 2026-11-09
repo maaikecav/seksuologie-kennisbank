@@ -28,3 +28,21 @@
 - [[Handbook of Sexuality-Related Measures (4th ed.)]] (selectief verwerkt, zie notitie)
 - [[Introducing the New Sexuality Studies - Fischer en Westbrook (red.)]] (selectief verwerkt, zie notitie)
 - [[Seks! Een leven lang leren - Van Lunsen en Laan]] (selectief verwerkt, zie notitie)
+
+## Toegevoegd in november 2026 (boeken en werkboeken voor het handboek)
+- [[Better Sex Through Mindfulness - Brotto]]
+- [[Female Sexual Pain Disorders - Goldstein, Pukall en Goldstein (red.)]]
+- [[Healing Sexual Trauma Workbook - Shershun]]
+- [[It's Not About the Sex Workbook - Susskind]]
+- [[Magnificent Sex - Kleinplatz en Ménard]]
+- [[Mind the Gap - Gurney]]
+- [[Not Always in the Mood - Murray]]
+- [[Polysecure - Fern]]
+- [[Principles and Practice of Sex Therapy - Hall en Binik (red.)]]
+- [[Psychiatry and Sexual Medicine - Lew-Starowicz, Giraldi en Krüger (red.)]]
+- [[The Jealousy Workbook - Labriola]]
+- [[The New Male Sexuality - Zilbergeld]]
+- [[The Sex Addiction Workbook - Sbraga en O'Donohue]]
+- [[The Sexual Healing Journey - Maltz]]
+- [[Treating Out of Control Sexual Behavior - Braun-Harvey en Vigorito]]
+- [[When Sex Hurts - Goldstein, Pukall e.a.]]

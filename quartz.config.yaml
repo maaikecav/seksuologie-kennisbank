@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: "Kennisbank Seksuologie"
+  pageTitleSuffix: " | De Seksuoloog"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: nl-NL
   baseUrl: maaikecav.github.io/seksuologie-kennisbank
   ignorePatterns:
     - private
@@ -16,30 +16,31 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      title: Fraunces
+      header: Fraunces
+      body: DM Sans
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#FBF8F5"
+        lightgray: "#E9DFDB"
+        gray: "#B9AAA5"
+        darkgray: "#514744"
+        dark: "#2D2326"
+        secondary: "#8E4962"
+        tertiary: "#B77869"
+        highlight: rgba(142, 73, 98, 0.12)
+        textHighlight: "#EED9DF"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1C1719"
+        lightgray: "#382E32"
+        gray: "#6B5A61"
+        darkgray: "#E3D8D4"
+        dark: "#FBF6F2"
+        secondary: "#D594AC"
+        tertiary: "#DCA08E"
+        highlight: rgba(213, 148, 172, 0.15)
+        textHighlight: "#693C4D"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true

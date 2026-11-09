@@ -76,6 +76,11 @@ Naar [[Bekkenbodemfysiotherapeut]] voor bekkenbodemwerk/biofeedback (parallel aa
 - De pijn zit niet "tussen je oren", maar lichaam en brein raken wel met elkaar verweven in een vicieuze cirkel — dat verklaart waarom een aanpak die alleen fysiek óf alleen psychologisch is, vaak tekortschiet.
 - Het doel is niet het meteen herstellen van pijnvrije coïtus, maar het stap voor stap terugwinnen van veilig, plezierig contact.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- **Wat werkt?** In een gerandomiseerde studie van Bergeron e.a. verbeterde de pijn na zes maanden bij 68% na een vestibulectomie, 39% na groeps-CGT en 35% na biofeedback. De seksuele en psychische verbetering was in alle groepen even groot, en na de gedragsmatige behandelingen werd niemand slechter (na de operatie 9%). De Nederlandse groeps-CGT van ter Kuile en Weijenborg gaf minder pijn, minder spierspanning en meer seksuele tevredenheid (via *Female Sexual Pain Disorders*).
+- **Realistische doelen** (*When Sex Hurts*): ook 50% minder pijn kan een groot verschil maken. Bijna de helft van de vrouwen met provoked vestibulodynie en een overactieve bekkenbodem had veel angst voor pijn.
+- **Uitgeschreven werkbladen:** [[HW - Het pijndagboek]] · [[HW - Genitale verkenning met een spiegel]] (de pijnkaart) · [[HW - De rampgedachte onderzoeken]] · [[HW - De pijn is gewoon de pijn]] · [[HW - Aanmoedigen in plaats van overbezorgd zijn]] · [[HW - Het gesprek met de arts voorbereiden]].
+
 ## Bronnen en links
 
 ### Bronnen

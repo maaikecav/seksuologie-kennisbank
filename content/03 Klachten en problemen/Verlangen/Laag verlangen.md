@@ -91,6 +91,12 @@ Bij vermoeden van een hormonale bijdrage (bv. na bilaterale ovariëctomie): over
 - Wat "genoeg" verlangen is, is voor een groot stuk een sociale constructie, geen vaste norm.
 - [[Het is als fietsen na lange tijd]] — verlangen dat een tijd "stil heeft gestaan" moet je soms opnieuw opzoeken; dat is geen teken dat het er nooit meer zal zijn.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- **Hoe vaak, en hoe erg?** In Natsal-3 (Groot-Brittannië, 15.000 mensen) had 34% van de vrouwen in het afgelopen jaar minstens drie maanden weinig zin, en bijna 15% van de mannen. Maar van de vrouwen met weinig zin, pijn of orgasmeproblemen vond maar 29% het zelf echt een probleem (Gurney, *Mind the Gap*).
+- **De driehoek van goede seks** (Gurney): psychologische opwinding, passende aanraking en aanwezig zijn. **Motieven** voor seks (toenadering of vermijding) bepalen mee hoeveel zin en plezier er is.
+- **Mindfulness** (Brotto, *Better Sex Through Mindfulness*): acht weken mindfulness verbetert zin, opwinding en de afstemming tussen lichaam en hoofd.
+- **Uitgeschreven werkbladen:** [[HW - Het zin-dagboek]] · [[HW - Mijn voorwaarden voor zin en goede seks]] · [[HW - Waarom wil ik seks]] · [[HW - Een week vol seksuele valuta]] · [[HW - De bodyscan]]. Zie het handboekhoofdstuk [[Geen zin]].
+
 ## Bronnen en links
 
 ### Bronnen
@@ -109,7 +115,7 @@ Bij vermoeden van een hormonale bijdrage (bv. na bilaterale ovariëctomie): over
 - [[Laag verlangen bij mannen]]
 - [[Responsief verlangen]]
 - [[Verschil in verlangen bij koppels]]
-- [[Rem- en gasmodel]]
+- [[Dual Control Model (Bancroft en Janssen) - SES en SIS|Rem- en gasmodel (Dual Control Model)]]
 - [[Seksuele aversie]]
 - [[Aseksualiteit]]
 - [[Cirkel van Basson]]

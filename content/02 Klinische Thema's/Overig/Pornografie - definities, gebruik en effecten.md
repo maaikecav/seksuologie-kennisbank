@@ -83,6 +83,9 @@ Geen formele DSM/ICD-diagnose. Frequentie van gebruik alleen is geen goede maats
 
 Pornografie is volgens dit model **geen zelfstandige oorzaak** van seksuele agressie, maar kan bij mannen die al hoog scoren op vijandige masculiniteit (hostile masculinity) én socioseksualiteit/impersonal sex als risicoverhogende factor werken. Zie de volledige bespreking in [[Confluence model van seksueel geweld (Malamuth)]].
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- Zie de aanvulling uit Braun-Harvey & Vigorito, Susskind en Sbraga in [[Porno en compulsief seksueel gedrag]], en de werkbladen [[HW - Mijn seksuele gezondheidsplan]] en [[HW - Afspraken over soloseks]].
+
 ## Bronnen en links
 
 ### Bronnen

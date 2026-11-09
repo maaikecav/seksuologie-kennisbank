@@ -83,6 +83,10 @@ Voor kinderen met complex trauma die in een leefgroep verblijven: opleiding en p
 - Bij de keuze tussen EMDR, TF-CBT en NET weegt onder meer mee: leeftijd (TF-CBT is specifiek uitgewerkt voor 8-18 jaar), enkelvoudig versus meervoudig trauma (NET is ontwikkeld voor meervoudige/cumulatieve traumatisering), en beschikbare training/certificering van de behandelaar.
 - Combineer waar relevant met sekstherapeutische nazorg (werken aan relationele en fysiek-seksuele problemen naast de traumaverwerking) — zie [[Seksueel geweld op volwassen leeftijd - gevolgen en behandeling]].
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- **Stabilisatie en lichaamsgerichte oefeningen** uit Shershun (*Healing Sexual Trauma Workbook*) en Maltz (*The Sexual Healing Journey*) zijn uitgeschreven als werkbladen: [[HW - Thuiskomen in je lijf]] · [[HW - De container]] · [[HW - Terugkomen als je wegglijdt]] · [[HW - De triggerlijst en het triggerplan]] · [[HW - Aanraking opnieuw leren]] · [[HW - De schaamte teruggeven]].
+- **Drie toestanden van het zenuwstelsel** (Shershun, naar de polyvagaaltheorie): veilig en verbonden, vechten of vluchten, bevriezen. Zie [[Seksueel trauma en misbruik]].
+
 ## Bronnen en links
 
 ### Bronnen

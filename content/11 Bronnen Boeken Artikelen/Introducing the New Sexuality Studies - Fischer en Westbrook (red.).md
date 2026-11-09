@@ -1,4 +1,9 @@
-
+---
+type: "bron"
+thema: "overkoepelend"
+bron: "Fischer, N.L. & Westbrook, L. (eds.), met S. Seidman (2022). Introducing the New Sexuality Studies (4th ed.)"
+status: "selectief verwerkt (tweede mijnronde: 3 eerder gevlagde hoofdstukken alsnog verwerkt)"
+---
 
 # Introducing the New Sexuality Studies - Fischer en Westbrook (red.)
 

@@ -74,6 +74,10 @@ Medicamenteus ingrijpen (bv. sildenafil) zonder eerst de context — stimulatiep
 - Genitale respons lijkt sterk op een reflex en kan binnen seconden optreden bij prikkels, ook als je je zelf niet bewust opgewonden voelt.
 - Aandacht vragen (jezelf dwingen op te winden) werkt averechts bij afleiding; probeer de aandacht juist bij de prikkel te houden.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- **Gianna** (Brotto): haar lichaam reageerde in het lab binnen een minuut sterk, terwijl ze zich nauwelijks opgewonden voelde en een boodschappenlijst maakte. Na acht weken mindfulness ontdekte ze dat ze tijdens seks altijd afgeleid was. Opwinding is geen reflex, maar een gesprek tussen lichaam en hoofd.
+- **Uitgeschreven werkbladen:** [[HW - De rozijn]] · [[HW - De bodyscan]] · [[HW - Gedachten als wolken]] · [[HW - Aandachtsvolle aanraking van je lichaam]] · [[HW - Rug aan rug]]. Zie [[In je hoofd zitten en moeite met opwinding]].
+
 ## Bronnen en links
 
 ### Bronnen

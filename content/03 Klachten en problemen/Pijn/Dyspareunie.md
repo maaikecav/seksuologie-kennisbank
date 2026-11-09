@@ -82,6 +82,10 @@ Multidisciplinaire aanpak is de norm, niet de uitzondering: verwijs naar [[Gynae
 - Pijn is niet altijd terug te voeren op één fysieke oorzaak; lichaam en psyche beïnvloeden elkaar voortdurend in de pijncirkel.
 - Multidisciplinaire aanpak (gynaecoloog, bekkenbodemtherapeut, seksuoloog) werkt beter dan één enkele invalshoek.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- Zie de aanvullingen uit *Female Sexual Pain Disorders* en *When Sex Hurts* in [[Pijn bij seks]] en [[Vulvodynie]].
+- **Uitgeschreven werkbladen:** [[HW - Het pijndagboek]] · [[HW - De tekenen van opwinding herkennen]] · [[HW - Eerst plezier, dan oefenen]] · [[HW - Het menu]].
+
 ## Bronnen en links
 
 ### Bronnen

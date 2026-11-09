@@ -80,6 +80,10 @@ Pornogebruik automatisch als het probleem framen zonder de onderliggende functie
 - Het is niet zozeer de hoeveelheid porno die bepalend is, maar of het gebruik ten koste gaat van partnerseks, intimiteit of andere levensgebieden.
 - Porno geeft vaak een onrealistisch beeld van lichamen, duur en wederzijds plezier — dit kan bij jongeren in het bijzonder verwachtingen vertekenen.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- **Seksuele gezondheid in plaats van verslaving** (Braun-Harvey & Vigorito, *Treating Out of Control Sexual Behavior*): beoordeel gedrag aan de hand van zes principes (instemming, geen uitbuiting, bescherming, eerlijkheid, gedeelde waarden, wederzijds plezier), niet aan de hand van hoe vaak of welke inhoud.
+- **Uitgeschreven werkbladen:** [[HW - Mijn seksuele gezondheidsplan]] · [[HW - Het ritueel in kaart]] · [[HW - Surfen op de drang]] · [[HW - Waar is het een oplossing voor]] · [[HW - Mijn zelfzorgmenu]]. Zie [[Porno en compulsief seksueel gedrag]].
+
 ## Bronnen en links
 
 ### Bronnen

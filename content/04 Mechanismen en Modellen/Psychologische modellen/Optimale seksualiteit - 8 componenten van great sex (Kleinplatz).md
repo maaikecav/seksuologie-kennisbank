@@ -54,6 +54,13 @@ Twee **minder-genoemde (mineure) componenten** waren opvallend genoeg: intense f
 
 In vervolgonderzoek waarin ook sekstherapeuten zelf werden bevraagd naar hun opvatting over optimale seksualiteit, bleken zíj de **enige uitzondering** op de consistente acht-componenten-bevinding: therapeuten hechtten significant meer belang aan erecties, coïtus en orgasme, benadrukten sekseverschillen sterker, en waardeerden interpersoonlijk risico nemen aanmerkelijk lager dan hun cliënten/de onderzoeksdeelnemers deden. Illustratief: onderzoek (Corty & Guardiani, 2008) vond dat sekstherapeuten 3-7 minuten coïtus "adequaat" en 7-13 minuten "wenselijk" achtten — een genormeerde, prestatiegerichte maatstaf die haaks staat op wat cliënten zelf als goede seks ervaren.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+Uit *Magnificent Sex: Lessons from Extraordinary Lovers* (Kleinplatz & Ménard, 2020):
+- **Geweldige minnaars worden gemaakt, niet geboren.** De meesten ontdekten uitzonderlijke seks pas op middelbare leeftijd. Het sleutelwoord voor wie het nog niet heeft, is *nog*.
+- **Weigeren genoegen te nemen** met de minimale kennis van elkaar die nodig is om seks te laten 'werken'.
+- **Ruimte maken, geen verplichte date.** Voorbereiding en intentie (lichamelijk, in de omgeving en tussen de partners) zijn voorwaarden, en ook het eerst uitpraten van onopgeloste ruzies.
+- **Uitgeschreven werkbladen:** [[HW - De acht ingrediënten van geweldige seks]] · [[HW - De erotische ruimte]]. Zie [[Routine en erotiek in lange relaties]].
+
 ## Bronnen en links
 
 ### Bronnen

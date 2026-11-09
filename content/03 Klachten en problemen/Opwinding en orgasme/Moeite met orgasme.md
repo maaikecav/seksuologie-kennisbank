@@ -72,6 +72,10 @@ Ervan uitgaan dat "geen orgasme bij coïtus" per definitie een disfunctie is. Bi
 - Niet klaarkomen via coïtus alleen is normaal, geen disfunctie — de meerderheid van vrouwen heeft (ook) andere stimulatie nodig.
 - Een orgasme via masturbatie leren ervaren, vertaalt zich vaak (na verloop van tijd) ook naar meer kans op orgasme met een partner.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- **De orgasmekloof** (Gurney): bij masturbatie komen ruim 95% van de mannen én vrouwen betrouwbaar klaar. Bij seks tussen een man en een vrouw komt ongeveer 95% van de mannen en 65% van de vrouwen meestal of altijd klaar, bij losse contacten 18% van de vrouwen. Vrouwen die met vrouwen vrijen komen veel vaker klaar (ongeveer 85%). Het verschil zit in het script, niet in het lichaam.
+- **Uitgeschreven werkbladen:** het programma van Heiman & LoPiccolo staat volledig uitgeschreven in [[Orgasme en faken]], hoofdstuk 8.
+
 ## Bronnen en links
 
 ### Bronnen

@@ -86,6 +86,11 @@ Bij sterk walging/afkeer-profiel of onderliggend trauma: opschalen naar Intensiv
 - De reactie kan sterk verschillen naargelang de context; dat is geen tegenspraak maar juist kenmerkend voor het patroon.
 - Het doel van behandeling is niet "gewoon ontspannen" maar het opnieuw opbouwen van veilige, pijnvrije ervaringen, in kleine stappen en zonder druk.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- **Cognitief-gedragsmatige behandeling en bekkenbodem** (Bergeron e.a. en Reissing, in Goldstein, Pukall & Goldstein, *Female Sexual Pain Disorders*). Blootstelling met vingers of dilatoren in ontspannen toestand, het ombuigen van rampgedachten, en bekkenbodemfysiotherapie werken het best samen. Betrek de partner.
+- **Uitgeschreven werkbladen:** [[HW - Stap voor stap met vinger of dilator]] · [[HW - Bekkenbodem aanspannen en loslaten]] · [[HW - Zelf de regie bij het inbrengen]] · [[HW - De angstladder]] · [[HW - Een pauze van penetratie]].
+- Zie ook het handboekhoofdstuk [[Pijn bij seks]].
+
 ## Bronnen en links
 
 ### Bronnen

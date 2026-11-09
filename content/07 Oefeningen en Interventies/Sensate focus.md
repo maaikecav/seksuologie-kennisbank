@@ -97,6 +97,10 @@ Deze indeling maakt met name het onderscheid tussen "wel/geen feedback geven" en
 
 Actieve relationele crisis of onveiligheid waarin lichamelijke toenadering niet vanuit vrije wil kan gebeuren; niet starten zonder eerst (waar relevant) somatische oorzaken van pijn te laten uitsluiten.
 
+## Aanvulling uit nieuwe bronnen (november 2026)
+- **Sensate focus als mindfulness voor twee** (Brotto). Masters en Johnson zagen dat mensen die makkelijk opgewonden raken (1) aanraken voor hun eigen ervaring, (2) zich richten op de sensaties in plaats van op het opwinden van de ander, en (3) bij afleiding steeds teruggaan naar die sensaties.
+- **Uitgeschreven werkblad voor cliënten:** [[HW - Sensate focus]] (met aanpassingen per klacht). Zie ook [[HW - Rug aan rug]] als zachte eerste stap.
+
 ## Bronnen en links
 
 ### Bronnen
